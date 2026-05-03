@@ -16,7 +16,7 @@ def start_installer():
         messagebox.showinfo("Загрузка", "Сейчас откроется страница загрузки панели. Установите её вручную.")
         
         # Ссылка на вторую программу (например, на твой GitHub)
-        webbrowser.open("https://github.com")
+        webbrowser.open("https://github.com/ilnaz2024/CheatPanel-Project/blob/main/CheatPanel.py")
         
         messagebox.showinfo("Статус", "Установщик завершит работу после скачивания.")
     else:
